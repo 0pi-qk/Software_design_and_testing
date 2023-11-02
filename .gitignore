@@ -1,0 +1,9 @@
+.idea/
+.bsp/
+project/
+target/
+lib/
+LR_3/out/
+local.properties
+.gradle/
+RGR/app/build
